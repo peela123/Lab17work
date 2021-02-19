@@ -24,3 +24,4 @@ Caesar Clown: 5 10 47
 Monkey D. Garp: 6 25 18
 Portgas D. Ace: 13 21 36
 Gol D. Roger: 19 19 15
+
